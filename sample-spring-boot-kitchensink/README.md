@@ -6,6 +6,13 @@ This is a full-featured sample application for the LINE Messaging API.
 
 ## Usage
 
+### Step 2
+
+Tap the deploy button.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/naomichi0904/LINE)
+
+
 Run this sample bot using Gradle.
 
     ../gradlew bootRun -Dline.bot.channelToken=YOUR_CHANNEL_TOKEN \
